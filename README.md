@@ -9,7 +9,7 @@ A reference .NET application implementing an e-commerce website using a services
 ## Getting Started
 
 This version of eShop is based on .NET 9. 
-
+EDITING READ FOR FOR COPILOT CODE REVIEW TESTING
 Previous eShop versions:
 * [.NET 8](https://github.com/dotnet/eShop/tree/release/8.0)
 
